@@ -1,0 +1,11 @@
+C:\Users\mykyt\Desktop\bubble\bin\Debug\netcoreapp3.0\bubble.exe
+C:\Users\mykyt\Desktop\bubble\bin\Debug\netcoreapp3.0\bubble.deps.json
+C:\Users\mykyt\Desktop\bubble\bin\Debug\netcoreapp3.0\bubble.runtimeconfig.json
+C:\Users\mykyt\Desktop\bubble\bin\Debug\netcoreapp3.0\bubble.runtimeconfig.dev.json
+C:\Users\mykyt\Desktop\bubble\bin\Debug\netcoreapp3.0\bubble.dll
+C:\Users\mykyt\Desktop\bubble\bin\Debug\netcoreapp3.0\bubble.pdb
+C:\Users\mykyt\Desktop\bubble\obj\Debug\netcoreapp3.0\bubble.csprojAssemblyReference.cache
+C:\Users\mykyt\Desktop\bubble\obj\Debug\netcoreapp3.0\bubble.AssemblyInfoInputs.cache
+C:\Users\mykyt\Desktop\bubble\obj\Debug\netcoreapp3.0\bubble.AssemblyInfo.cs
+C:\Users\mykyt\Desktop\bubble\obj\Debug\netcoreapp3.0\bubble.dll
+C:\Users\mykyt\Desktop\bubble\obj\Debug\netcoreapp3.0\bubble.pdb
